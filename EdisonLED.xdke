@@ -1,0 +1,72 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "EdisonLED.xdk": {
+        "previousModTime": 1461691756395,
+        "modified": 1461691756395,
+        "seen": true,
+        "name": "EdisonLED.xdk"
+      },
+      "EdisonLED.xdke": {
+        "previousModTime": 1461720008670,
+        "modified": 1461720008670,
+        "seen": true,
+        "name": "EdisonLED.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1461691756135,
+        "modified": 1461691756135,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1461707380958,
+        "modified": 1461707380958,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1461696881645,
+        "modified": 1461696881645,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1461691756135,
+        "modified": 1461691756135,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461691756367,
+        "modified": 1461691756367,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "routes/index.js": {
+        "previousModTime": 1461712678508,
+        "modified": 1461712678508,
+        "seen": true,
+        "name": "routes/index.js"
+      },
+      "routes/play.js": {
+        "previousModTime": 1461720061823,
+        "modified": 1461720061823,
+        "seen": true,
+        "name": "routes/play.js"
+      }
+    },
+    "boardFileStatus": {
+      "routes/play.js": {
+        "previousModTime": 1461720070927
+      }
+    }
+  }
+}
